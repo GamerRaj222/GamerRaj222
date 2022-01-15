@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GamerRaj222
+- 👋 Hi, I’m @Rajib_lochan_sa.
 - 👀 I’m interested in scientific research
 - 🌱 I’m currently learning XML coding
 - 💞️ I’m looking to collaborate on AI technologies.
